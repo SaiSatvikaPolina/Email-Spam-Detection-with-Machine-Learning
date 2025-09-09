@@ -1,4 +1,4 @@
-##📧 Email Spam Detection with Machine Learning
+📧 ##Email Spam Detection with Machine Learning
 
 This project is about building a spam email detection system using Python and machine learning. The model can classify emails as either:
 
