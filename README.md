@@ -1,4 +1,4 @@
-**📧 Email Spam Detection with Machine Learning**
+##📧 Email Spam Detection with Machine Learning
 
 This project is about building a spam email detection system using Python and machine learning. The model can classify emails as either:
 
@@ -6,11 +6,13 @@ Spam (junk/unwanted mail)
 
 Ham (legitimate mail)
 
-📝 Problem Statement
+
+##📝 Problem Statement
 
 Spam emails continue to flood inboxes with scams, phishing attempts, and unwanted promotions. Our goal is to build a reliable system that can automatically detect spam emails, improve email security, and give users a cleaner inbox.
 
-🎯 Project Objectives
+
+##🎯 Project Objectives
 
 Data Preprocessing → Clean and prepare email text data.
 
@@ -30,7 +32,7 @@ Ethics → Handle email data carefully to respect privacy.
 
 
 
-📊 Dataset & Insights
+##📊 Dataset & Insights
 
 Around 13.41% of emails were spam, and 86.59% were ham.
 
@@ -40,7 +42,7 @@ These keywords helped improve model performance.
 
 
 
-⚙️ Methodology
+##⚙️ Methodology
 
 Load and clean the dataset.
 
@@ -56,7 +58,7 @@ Select the best model and fine-tune it.
 
 
 
-🏆 Results
+##🏆 Results
 
 Best Model: Multinomial Naïve Bayes
 
@@ -67,7 +69,8 @@ Strength: Excellent recall, meaning it catches almost all spam emails.
 ✅ Inboxes become safer and cleaner with this system.
 
 
-📌 Project Summary
+
+##📌 Project Summary
 
 Data preprocessing and feature engineering were crucial steps.
 
@@ -78,7 +81,8 @@ The project shows how ML can successfully fight spam emails.
 Future improvements may include deep learning (e.g., LSTMs, BERT) for even better performance.
 
 
-📚 Tools & Technologies
+
+##📚 Tools & Technologies
 
 Python
 
