@@ -2,9 +2,9 @@
 
 This project is about building a spam email detection system using Python and machine learning. The model can classify emails as either:
 
-Spam (junk/unwanted mail)
+-- Spam (junk/unwanted mail)
 
-Ham (legitimate mail)
+-- Ham (legitimate mail)
 
 
 ## 📝 Problem Statement
